@@ -1,2 +1,10 @@
 # OpenThruster
-Open source 3D printed thruster for AUVs and ASVs
+Open source 3D printed thruster for AUVs and ASVs.
+
+The 3D printable STL files are in the STL folder. 
+Print settings for Nozzle:0.4mm Extruder nozzle, 0.2mm layer height, 30% Infill (Gyroid), 4 Perimeters, 6mm Brim.
+Print settings for Propeller: 0.1mm layer height, 0.2-0.4mm Extruder nozzle, Supports enabled, 4 Perimeters, Solid infill.
+
+FreeCAD source files in FreeCAD source files folder. FreeCAD v0.19 was used for design.
+
+OpenProp source files downloaded from : https://openprop.engineering.dartmouth.edu/. The folder updloaded here has modified option of NACA001612 and 001615 profiles.

@@ -7,7 +7,7 @@ Exploded View:
 ![alt text](https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/Exploded.png?raw=true)
 
 Final Assembled:
-<img src="https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/thruster.png" width="100" height="100">
+<img src="https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/thruster.png" width="400">
 
 Additional details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
 

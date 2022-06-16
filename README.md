@@ -1,7 +1,8 @@
 # OpenThruster
 Open source 3D printed thruster for AUVs and ASVs.
 3D Render:
-![alt text](https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/3D_Render.png?raw=true)
+
+<img src="https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/3D_Render.png" width="600">
 
 Exploded View:
 

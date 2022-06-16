@@ -11,9 +11,21 @@ Final Assembled:
 
 Additional details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
 
-The 3D printable STL files are in the STL folder. 
-Print settings for Nozzle:0.4mm Extruder nozzle, 0.2mm layer height, 30% Infill (Gyroid), 4 Perimeters, 6mm Brim.
-Print settings for Propeller: 0.1mm layer height, 0.2-0.4mm Extruder nozzle, Supports enabled, 4 Perimeters, Solid infill.
+The 3D printable STL files are in the STL folder.
+
+Print settings for Nozzle:
+* 0.4mm Extruder nozzle
+* 0.2mm layer height
+* 30% Infill (Gyroid)
+* 4 Perimeters
+* 6mm Brim.
+
+Print settings for Propeller: 
+* 0.1mm layer height
+* 0.2-0.4mm Extruder nozzle
+* Supports enabled
+* 4 Perimeters
+* Solid infill.
 
 FreeCAD source files in FreeCAD source files folder. FreeCAD v0.19 was used for design.
 

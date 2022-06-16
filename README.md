@@ -1,5 +1,6 @@
 # OpenThruster
 Open source 3D printed thruster for AUVs and ASVs.
+---------------------------------------------------------------------------------------------------
 3D Render:
 
 <img src="https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/3D_Render.png" width="500">
@@ -15,7 +16,7 @@ Final Assembled:
 Additional details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
 
 The 3D printable STL files are in the STL folder.
-
+--------------------------------------------------------------------------------------------------
 Print settings for Nozzle:
 * 0.4mm Extruder nozzle
 * 0.2mm layer height
@@ -35,10 +36,13 @@ FreeCAD source files in FreeCAD source files folder. FreeCAD v0.19 was used for 
 OpenProp source files downloaded from : https://openprop.engineering.dartmouth.edu/. The folder uploaded here has the modified option of NACA001612 and 001615 profiles.
 
 Bill of Materials
+--------------------------------------------------------------------------------------------------
 1. PLA / ABS Filament
 2. 3x 2.5x5mm Screws
 3. 1x A2212 1000KV BLDC Motor
 4. 1x 30A ESC with reversing capability
 
 
-Testing Video: https://drive.google.com/file/d/1CwWSbAQDMGnaGXgHJ6uAxaj82aNr3GoJ/view?usp=sharing
+Testing Video: 
+--------------------------------------------------------------------------------------------------
+https://drive.google.com/file/d/1CwWSbAQDMGnaGXgHJ6uAxaj82aNr3GoJ/view?usp=sharing

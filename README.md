@@ -6,6 +6,11 @@ Open source 3D printed thruster for AUVs and ASVs.
 Exploded View:
 ![alt text](https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/Exploded.png?raw=true)
 
+Final Assembled:
+![alt text](https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/thruster.png?raw=true)
+
+Additional details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
+
 The 3D printable STL files are in the STL folder. 
 Print settings for Nozzle:0.4mm Extruder nozzle, 0.2mm layer height, 30% Infill (Gyroid), 4 Perimeters, 6mm Brim.
 Print settings for Propeller: 0.1mm layer height, 0.2-0.4mm Extruder nozzle, Supports enabled, 4 Perimeters, Solid infill.

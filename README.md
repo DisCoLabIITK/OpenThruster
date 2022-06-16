@@ -16,3 +16,6 @@ Bill of Materials
 2. 3x 2.5x5mm Screws
 3. 1x A2212 1000KV BLDC Motor
 4. 1x 30A ESC with reversing capability
+
+
+Testing Video: https://drive.google.com/file/d/1CwWSbAQDMGnaGXgHJ6uAxaj82aNr3GoJ/view?usp=sharing

@@ -31,7 +31,7 @@ Print settings for Propeller:
 * 4 Perimeters
 * Solid infill.
 
-FreeCAD source files in FreeCAD source files folder. FreeCAD v0.19 was used for design.
+FreeCAD source files in FreeCAD source files folder. FreeCAD v0.19 was used for old design. New design files for FreeCad v1.0 are added in separate folder.
 
 OpenProp source files downloaded from : https://openprop.engineering.dartmouth.edu/. The folder uploaded here has the modified option of NACA001612 and 001615 profiles.
 

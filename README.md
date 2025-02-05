@@ -15,7 +15,7 @@ Final Assembled:
 
 Assembly
 --------------------------------------------------------------------------------------------------
-Assembly details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
+Assembly details on the Wiki page: [https://github.com/DisCoLabIITK/OpenThruster/wiki](https://github.com/DisCoLabIITK/OpenThruster/wiki/Assembly-Instructions)
 
 The 3D printable STL files are in the STL folder.
 --------------------------------------------------------------------------------------------------

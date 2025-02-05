@@ -37,10 +37,11 @@ OpenProp source files downloaded from : https://openprop.engineering.dartmouth.e
 
 Bill of Materials
 --------------------------------------------------------------------------------------------------
-1. PLA / ABS Filament
-2. 3x 2.5x5mm Screws
-3. 1x A2212 1000KV BLDC Motor
-4. 1x 30A ESC with reversing capability
+1. PLA / ABS Filament for printing the propeller, nozzle, top cover and motor inner.
+2. 3x M2.5 5mm Screws - Front Cover Screws
+3. 4x M3 8mm Screws - Motor Mounting Screws
+4. 1x A2212 1000KV BLDC Motor and the 4 screws (Propeller mounting screws in figure above) that come with it.
+5. 1x 30A ESC with reversing capability
 
 
 Testing Video: 

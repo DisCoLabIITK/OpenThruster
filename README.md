@@ -13,7 +13,9 @@ Final Assembled:
 
 <img src="https://github.com/DisCoLabIITK/OpenThruster/blob/main/Images/thruster.png" width="400">
 
-Additional details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
+Assembly
+--------------------------------------------------------------------------------------------------
+Assembly details on the Wiki page: https://github.com/DisCoLabIITK/OpenThruster/wiki
 
 The 3D printable STL files are in the STL folder.
 --------------------------------------------------------------------------------------------------
